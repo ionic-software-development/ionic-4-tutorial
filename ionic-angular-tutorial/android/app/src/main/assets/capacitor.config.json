@@ -1,0 +1,8 @@
+{
+  "appId": "com.angular_refresher",
+  "appName": "ionic-angular-tutorial",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
